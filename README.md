@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [2029-stone-game-ix](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
