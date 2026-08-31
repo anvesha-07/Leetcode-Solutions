@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
