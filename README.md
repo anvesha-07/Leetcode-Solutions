@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0836-rectangle-overlap](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
