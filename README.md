@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0520-detect-capital](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0520-detect-capital) |
 ## Greedy
 |  |
 | ------- |
