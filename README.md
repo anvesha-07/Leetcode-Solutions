@@ -33,9 +33,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0520-detect-capital) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2029-stone-game-ix](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Minimax
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
