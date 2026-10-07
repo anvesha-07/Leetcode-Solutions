@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0301-remove-invalid-parentheses](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0520-detect-capital](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
