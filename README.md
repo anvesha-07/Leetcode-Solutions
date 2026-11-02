@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [2029-stone-game-ix](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anvesha-07/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
